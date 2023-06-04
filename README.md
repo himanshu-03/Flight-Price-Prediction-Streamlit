@@ -32,7 +32,9 @@ streamlit run streamlit_app.py
 ```
 
 <br>
+
 ## 📌 Features / Contributions
+
 * Any contributions you make are _greatly appreciated_
 * Would be glad to hear about _new features_ to add in the website
 
